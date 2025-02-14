@@ -43,3 +43,4 @@ User Authentication: Add user login functionality to save previous symptom input
 Chatbot Integration: Incorporate an AI-powered chatbot for interactive user support.
 
 Telemedicine Integration: Allow users to schedule virtual consultations.
+
